@@ -37,4 +37,4 @@ README.md				:Explains how all of the scripts work and how they are connected
 CodeBook.md				:This code book describes the variables, the data, and any transformations or work that you performed to clean up the data.
 CodeBook.pdf			:This is an additonal document clearly mapping the source to target, MyFinalTidyDataSet, attributes.
 run_analysis.R			:The script for performing the analysis.
-MyFinalTidyDataSet.txt	:The tidy data set as described in the CodeBook.md
+MyFinalTidyDataSet.txt	:The tidy data set as described in the CodeBook.md has been uploaded as required (Not in the repository) 
